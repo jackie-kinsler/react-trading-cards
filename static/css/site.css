@@ -11,3 +11,8 @@ body {
   font-family: "Trebuchet MS", Helvetica, sans-serif
 }
 
+#baloonicorn-homepage {
+  width: 300px;
+  height: auto;
+  display: block;
+}

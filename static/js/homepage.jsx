@@ -4,7 +4,10 @@ class Homepage extends React.Component {
   render() {
     return (
       <div>
-        This component needs to be implemented.
+        <p>Welcome!</p>
+        <a href="/cards">Cards Page</a>
+        <img id="baloonicorn-homepage" src="/static/img/balloonicorn.jpg" 
+              alt="image of a Balloonicorn"></img>
       </div>
     );
   }
