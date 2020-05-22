@@ -16,3 +16,7 @@ body {
   height: auto;
   display: block;
 }
+
+a {
+  display: block;
+}
